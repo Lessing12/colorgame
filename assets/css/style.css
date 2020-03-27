@@ -1,0 +1,16 @@
+body{
+    background: blue;
+}
+.quadrat{
+    width: 30%;
+    background: grey;
+    padding-bottom: 30%;
+    float: left;
+    margin: 10px;
+   
+}
+#container{
+    margin: auto;
+    max-width: 600px;
+
+}
